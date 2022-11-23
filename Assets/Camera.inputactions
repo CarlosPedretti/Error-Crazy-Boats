@@ -1,0 +1,22 @@
+{
+    "name": "Camera",
+    "maps": [
+        {
+            "name": "Mouse",
+            "id": "ce38b834-f25c-4f7c-b381-340ee4afce6e",
+            "actions": [
+                {
+                    "name": "MouseLook",
+                    "type": "PassThrough",
+                    "id": "a2712ea1-47be-4ef1-87dc-4c08731419da",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": []
+        }
+    ],
+    "controlSchemes": []
+}
